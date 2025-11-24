@@ -1,0 +1,50 @@
+[
+	{
+		"nome": "javascript",
+		"ano": "1995",
+		"descrição":"é uma linguagem para web",
+		"link":"https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
+	},
+	{
+		"nome": "python",
+		"ano": "1991",
+		"descrição":"é uma linguagem para ciência de dados e IA",
+		"link": "https://www.python.org"
+	},
+	{
+		"nome": "java",
+		"ano": "1995",
+		"descrição": "é uma linguagem de programação de uso geral e orientada a objetos.",
+		"link": "https://dev.java"
+	},
+	{
+		"nome": "c#",
+		"ano": "2000",
+		"descrição": "é uma linguagem de programação moderna, orientada a objetos e desenvolvida pela Microsoft.",
+		"link": "https://learn.microsoft.com/pt-br/dotnet/csharp/"
+	},
+	{
+		"nome": "ruby",
+		"ano": "1995",
+		"descrição": "é uma linguagem de programação dinâmica e de código aberto com foco na simplicidade e produtividade.",
+		"link": "https://www.ruby-lang.org/pt/documentation/"
+	},
+	{
+		"nome": "go",
+		"ano": "2009",
+		"descrição": "é uma linguagem de programação compilada e de tipagem estática projetada pelo Google.",
+		"link": "https://go.dev/doc/"
+	},
+	{
+		"nome": "rust",
+		"ano": "2010",
+		"descrição": "é uma linguagem de programação multiparadigma que se concentra na segurança e desempenho.",
+		"link": "https://www.rust-lang.org/learn"
+	},
+	{
+		"nome": "typescript",
+		"ano": "2012",
+		"descrição": "é uma linguagem de programação de código aberto desenvolvida pela Microsoft que adiciona tipagem estática ao JavaScript.",
+		"link": "https://www.typescriptlang.org/docs/handbook/intro.html"
+	}
+]
