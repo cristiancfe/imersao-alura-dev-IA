@@ -150,6 +150,17 @@ article {
     flex-basis: 20rem;
     border: 1px solid #3c4043
 }
+#texto{
+    background: var(--bg-color);
+    border-radius: 1rem;
+    padding: 1rem;
+    margin-bottom: 1.25rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    /* border-bottom: 1px solid var(--tertiary-color); */
+    padding-bottom: 1.5rem;    
+    min-width: 100vh;
+}
 
 article:hover {
     transform: scale(1.01); /* Aumenta ligeiramente o tamanho ao passar o mouse */
@@ -202,7 +213,7 @@ article a:hover {
 }
 
 .footer {
-    position: absolute; /* Posicionamento absoluto em relação ao elemento pai posicionado */
+    position: relative; /* Posicionamento absoluto em relação ao elemento pai posicionado */
     bottom: 0; /* Alinha na parte inferior */
     left: 0; /* Alinha à esquerda */
     width: 100%; /* Largura total */

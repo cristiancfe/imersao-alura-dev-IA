@@ -60,5 +60,9 @@ document.addEventListener('DOMContentLoaded', () => {
     if (savedMode === 'light') {
         body.classList.add('light-mode');
     }
-	carregarDados();
+
+	const pageTitle = document.querySelector('h1').textContent;
+	if (pageTitle === 'Linguagens de Programação') {
+		carregarDados();
+	}
 });
