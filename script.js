@@ -1,6 +1,12 @@
 let cardContainer = document.querySelector(".card-container");
 let dados = [];
 
+async function carregarDados() {
+	let resposta = await fetch("data.json");
+	dados = await resposta.json();
+	renderizarCards(dados);
+}
+
 async function iniciarBusca() {
 	const termoBusca = document.querySelector("input[type='text']").value.toLowerCase();
 
@@ -12,7 +18,6 @@ async function iniciarBusca() {
 	const dadosFiltrados = termoBusca
 		? dados.filter(dado => {
 				const nome = dado.nome.toLowerCase();
-				const descricao = dado.descrição.toLowerCase();
 				return nome.includes(termoBusca);
 			})
 		: dados;
@@ -55,4 +60,5 @@ document.addEventListener('DOMContentLoaded', () => {
     if (savedMode === 'light') {
         body.classList.add('light-mode');
     }
+	carregarDados();
 });
