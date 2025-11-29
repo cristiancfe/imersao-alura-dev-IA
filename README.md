@@ -9,7 +9,7 @@ Este projeto é uma base de conhecimento interativa que permite aos usuários bu
 - Adicionado botão para alterar tema white/dark
 - ajuste do busca para trazer resultados baseados no titulo da linguagem
 - Ajustado os links do footer com textos informativos de: Sobre, Negócios, Publicidade e como funciona a busca
-- Adicionado botão voltar nas sessões dos links do footer, rdirecionando para a página principal
+- Adicionado botão voltar nas sessões dos links do footer, redirecionando para a página principal
 - Adicionado link no footer com download de arquivo pdf com as linguagens mais utilizadas em 2025
   
 
