@@ -1,6 +1,7 @@
 
 # Base de Conhecimento
 ### Link do projeto no GitHub Page https://cristiancfe.github.io/imersao-alura-dev-IA/index.html
+### Link https://imersao-alura-dev-ia.vercel.app/
 
 ## Descrição
 
