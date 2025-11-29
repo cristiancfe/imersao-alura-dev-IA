@@ -42,10 +42,4 @@ Este projeto é uma base de conhecimento interativa que permite aos usuários bu
 ├── img/
 │   ├── darkmoonsun.png
 │   └── darkmoonsun.svg
-└── teste/
-    ├── data.json
-    ├── index.html
-    ├── script.js
-    ├── style.css
-    └── .git/
-```
+
