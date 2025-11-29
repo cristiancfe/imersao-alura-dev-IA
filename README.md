@@ -1,16 +1,9 @@
 
 # Base de Conhecimento
-## Link do Projeto https://cristiancfe.github.io/imersao-alura-dev-IA/
-## Vercel https://imersao-alura-dev-ia.vercel.app/index.html
 
 ## Descrição
 
 Este projeto é uma base de conhecimento interativa que permite aos usuários buscar e visualizar informações de forma rápida e eficiente. A interface é limpa e intuitiva, projetada para facilitar a navegação e o acesso aos dados.
-
-## Melhorias implementadas no projeto
-
-Foi ajustado o buscar para buscar pelo titulo, foi adicionado botão para alterar tema white/dark, implementação de links no footer com descrições de Sobre, Negócio, Publicidade, como funciona a busca,
-além de e download de arquivo pdf  com as linguagens mais utilizadas em 2025
 
 ## Tecnologias Utilizadas
 
