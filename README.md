@@ -5,6 +5,14 @@
 
 Este projeto é uma base de conhecimento interativa que permite aos usuários buscar e visualizar informações de forma rápida e eficiente. A interface é limpa e intuitiva, projetada para facilitar a navegação e o acesso aos dados.
 
+## Melhorias adicionadas
+- Adicionado botão para alterar tema white/dark
+- ajuste do busca para trazer resultados baseados no titulo da linguagem
+- Ajustado os links do footer com textos informativos de: Sobre, Negócios, Publicidade e como funciona a busca
+- Adicionado botão voltar nas sessões dos links do footer, rdirecionando para a página principal
+- Adicionado link no footer com download de arquivo pdf com as linguagens mais utilizadas em 2025
+  
+
 ## Tecnologias Utilizadas
 
 - **HTML5:** Para a estrutura semântica das páginas web.
