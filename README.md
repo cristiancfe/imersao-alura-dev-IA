@@ -7,6 +7,7 @@ Este projeto é uma base de conhecimento interativa que permite aos usuários bu
 
 ## Melhorias adicionadas
 - Adicionado botão para alterar tema white/dark
+- Inserida imagens/logo respectivos das linguagens de programação
 - ajuste do busca para trazer resultados baseados no titulo da linguagem
 - Ajustado os links do footer com textos informativos de: Sobre, Negócios, Publicidade e como funciona a busca
 - Adicionado botão voltar nas sessões dos links do footer, redirecionando para a página principal
